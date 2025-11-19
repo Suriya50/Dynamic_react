@@ -1,4 +1,4 @@
-const Array = () => {
+const Dynamicarr = () => {
 
 
     const movie = { hero: "Ramcharan & ntr", heroine: "Alya butt", director: "Rajmouli", Producer: " D. V. V. Danayya" }
@@ -23,4 +23,4 @@ const Array = () => {
 
 
 }
-export default Array;
+export default Dynamicarr;

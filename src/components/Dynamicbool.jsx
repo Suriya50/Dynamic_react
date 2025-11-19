@@ -1,6 +1,6 @@
 import friend from "../assets/images/friend.png"
 
-const Boolean = () => {
+const Dynamicbool = () => {
 
 
     const on = true
@@ -58,4 +58,4 @@ const Boolean = () => {
 
 
 }
-export default Boolean;
+export default Dynamicbool;

@@ -5,7 +5,7 @@ import hero1 from "../assets/images/hero1.png"
 import hero2 from "../assets/images/hero2.png"
 
 
-const Strin = () => {
+const Dynamicstr = () => {
 
     const title = "THE EPIC OF RRR"
     const about = "RRR is a 2022 Telugu-language period action drama film directed by S.S. Rajamouli about two fictionalized revolutionaries in 1920s India, Alluri Sitarama Raju (played by Ram Charan) and Komaram Bheem (played by N.T. Rama Rao Jr.), who unite against British rule. The film is celebrated for its epic scale, over-the-top action sequences, and a central theme of friendship between the two leads. It received widespread critical acclaim, became a global phenomenon, and won an Oscar for Best Original Song for Naatu Naatu."
@@ -81,4 +81,4 @@ const Strin = () => {
 
 
 }
-export default Strin;
+export default Dynamicstr ;

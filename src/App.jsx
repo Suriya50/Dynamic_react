@@ -1,10 +1,13 @@
 
 import './App.css';
-import Array from './components/array';
-import Arrayofobject from './components/Arrayofobject';
-import Boolean from './components/Boolean';
+
+
+import Dynamicaofb from './components/Dynamicaofb';
+import Dynamicarr from './components/Dynamicarr';
+import Dynamicbool from './components/Dynamicbool';
+import Dynamicstr from './components/Dynamicstr';
 import Navbar from './components/Navbar';
-import Strin from './components/Strin';
+
 
 
 
@@ -20,21 +23,21 @@ const App = () => {
       </header>
 
       <section>
-        <Strin/>
+        <Dynamicstr/>
       </section>
 
       <section>
-        <Boolean />
+        <Dynamicbool />
       </section>
 
 
       <section>
-        <Array />
+        <Dynamicarr/>
 
       </section>
 
       <section>
-        <Arrayofobject />
+        <Dynamicaofb />
       </section>
 
 

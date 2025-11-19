@@ -6,7 +6,7 @@ import ticket4 from "../assets/images/ticket6.png"
 
 
 
-const Arrayofobject = () => {
+const Dynamicaofb = () => {
 
     const ticket = "Ticket booking"
 
@@ -54,4 +54,4 @@ const Arrayofobject = () => {
     )
 }
 
-export default Arrayofobject;
+export default Dynamicaofb;
