@@ -4,7 +4,7 @@ import Array from './components/array';
 import Arrayofobject from './components/Arrayofobject';
 import Boolean from './components/Boolean';
 import Navbar from './components/Navbar';
-import String from './components/string';
+import Strin from './components/Strin';
 
 
 
@@ -20,7 +20,7 @@ const App = () => {
       </header>
 
       <section>
-        <String/>
+        <Strin/>
       </section>
 
       <section>
