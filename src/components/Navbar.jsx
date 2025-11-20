@@ -1,4 +1,5 @@
 
+import { Link } from "react-router-dom";
 import logo from "../assets/images/logo.png"
 
 const Navbar = () => {
@@ -17,12 +18,18 @@ const Navbar = () => {
                     <h1>RISE  ROAR  REVOLT</h1>
                 </div>
 
-                <div className="links">
-                    <a href="https://en.wikipedia.org/wiki/Ram_Charan">Actor</a>
-                    <a href="https://en.wikipedia.org/wiki/Alia_Bhatt"> Heroine</a>
-                    <a href="https://en.wikipedia.org/wiki/S._S._Rajamouli">Director</a>
-                    <a href="https://en.wikipedia.org/wiki/RRR">Producer</a>
+                <div className="dynamic">
+                    <Link className="links"  to="/">HOME</Link>
 
+                    <Link className="links" to="/About">ABOUT</Link>
+
+                    <Link className="links" to="/hero">HEROS</Link>
+
+                    <Link className="links" to="/detail"> DETAILS</Link>
+
+                    <Link className="links" to="/ticket">TICKETS</Link>
+
+                    
                 </div>
 
 

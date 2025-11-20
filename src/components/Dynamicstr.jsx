@@ -1,6 +1,6 @@
 
 
-import banner from "../assets/images/rrrbanner.png"
+
 import hero1 from "../assets/images/hero1.png"
 import hero2 from "../assets/images/hero2.png"
 
@@ -16,11 +16,7 @@ const Dynamicstr = () => {
         <>
 
 
-            <div className="parent">
-                <div className="banner">
-                    <img src={banner} alt="images" />
-                </div>
-            </div>
+           
 
             <section>
 
